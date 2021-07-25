@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Porfolio
-permalink: https://hthoai.github.io/
+permalink: /porfolio/
 ---
+
+[My porfolio](https://hthoai.github.io/).
