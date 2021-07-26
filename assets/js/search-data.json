@@ -27,17 +27,6 @@
   
 
   
-      ,"page1": {
-          "title": "Porfolio",
-          "content": "My porfolio. .",
-          "url": "https://hthoai.github.io/blog/porfolio/",
-          "relUrl": "/porfolio/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -59,7 +48,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://hthoai.github.io/blog/robots.txt",
